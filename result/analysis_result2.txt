@@ -1,0 +1,33 @@
+Type-token ratio for The Analects:0.08630927490173121
+Ratio of content words: 0.4007415460957319
+Hapax legomena ratio: 0.03796939031529648
+Vocabulary size: 3096
+Relative frequency of 'virtue': 0.0029829109865908395
+
+Synsets for 'virtue':
+- virtue.n.01 : the quality of doing what is right and avoiding what is wrong
+- merit.n.01 : any admirable quality or attribute
+- virtue.n.03 : morality with respect to sexual relations
+- virtue.n.04 : a particular moral excellence
+
+Analyzing the first synset:
+Name: virtue.n.01
+Definition: the quality of doing what is right and avoiding what is wrong
+Example sentences: []
+
+Synonyms: ['virtue', 'virtuousness', 'moral_excellence']
+Antonyms: []
+
+Hypernyms (more general concepts):
+- good.n.02 : moral excellence or admirableness
+
+Hyponyms (more specific concepts):
+
+Coordinate terms (words sharing the same hypernym):
+- benignity.n.01 : the quality of being kind and gentle
+- summum_bonum.n.01 : the supreme good in which all moral values are included or from which they are derived
+- saintliness.n.01 : the quality of resembling a saint
+- beneficence.n.02 : the quality of being kind or helpful or generous
+- virtue.n.04 : a particular moral excellence
+- virtue.n.01 : the quality of doing what is right and avoiding what is wrong
+- kindness.n.01 : the quality of being warmhearted and considerate and humane and sympathetic

@@ -1,0 +1,108 @@
+
+================================================================================
+TEXT ANALYSIS RESULTS
+================================================================================
+BASIC STATISTICS:
+Total Words: 35572
+Total Sentences: 1751
+Unique Words: 2913
+Average Sentence Length: 20.32 words
+
+TOP 30 MOST FREQUENT WORDS:
+----------------------------------------
+master          :   528
+man             :   227
+asked           :   102
+virtue          :    97
+superior        :    95
+people          :    92
+wei             :    91
+without         :    89
+men             :    86
+confucius       :    74
+ye              :    61
+replied         :    57
+government      :    55
+shu             :    54
+er              :    54
+good            :    53
+yet             :    53
+great           :    52
+zhang           :    52
+things          :    51
+three           :    48
+propriety       :    47
+words           :    46
+ji              :    46
+prince          :    46
+yan             :    44
+ling            :    44
+bo              :    43
+yuan            :    41
+yi              :    40
+
+CONCORDANCE ANALYSIS:
+================================================================================
+
+VIRTUE (132 occurrences)
+------------------------------------------------------------
+1. ...the analects : 0 . 08630927490173121 ratio of content words : 0 . 4007415460957319 hapax legomena ratio : 0 . 03796939031529648 vocabulary size : 3096 relative frequency of 'virtue ' : 0 . 0029829109865908395 synsets for 'virtue ' : - [VIRTUE] . n. 01 : the quality of doing what is right and avoiding what is wrong - merit . n. 01 : any admirable quality or attribute - virtue . n. 03 : morality with respect to sexual relations -...
+2. ...' : 0 . 0029829109865908395 synsets for 'virtue ' : - virtue . n. 01 : the quality of doing what is right and avoiding what is wrong - merit . n. 01 : any admirable quality or attribute - [VIRTUE] . n. 03 : morality with respect to sexual relations - virtue . n. 04 : a particular moral excellence analyzing the first synset : name : virtue . n. 01 definition : the quality of doing what is right...
+3. .... n. 01 : the quality of doing what is right and avoiding what is wrong - merit . n. 01 : any admirable quality or attribute - virtue . n. 03 : morality with respect to sexual relations - [VIRTUE] . n. 04 : a particular moral excellence analyzing the first synset : name : virtue . n. 01 definition : the quality of doing what is right and avoiding what is wrong example sentences : [ ] synonyms :...
+4. ...- merit . n. 01 : any admirable quality or attribute - virtue . n. 03 : morality with respect to sexual relations - virtue . n. 04 : a particular moral excellence analyzing the first synset : name : [VIRTUE] . n. 01 definition : the quality of doing what is right and avoiding what is wrong example sentences : [ ] synonyms : [ 'virtue ' , 'virtuousness ' , 'moral_excellence ' ] antonyms : [ ] hypernyms (...
+5. ...] antonyms : [ ] hypernyms ( more general concepts ) : - good . n. 02 : moral excellence or admirableness hyponyms ( more specific concepts ) : coordinate terms ( words sharing the same hypernym ) : - [VIRTUE] . n. 04 : a particular moral excellence - kindness . n. 01 : the quality of being warmhearted and considerate and humane and sympathetic - virtue . n. 01 : the quality of doing what is right and avoiding...
+
+BENEVOLENCE (37 occurrences)
+------------------------------------------------------------
+1. ...your chief to do with attacking it ? `` ran you said , `` our master wishes the thing ; neither of us two ministers wishes it. `` confucius said , `` qiu , there are the words of zhou [REN] , 'when he can put forth his ability , he takes his place in the ranks of office ; when he finds himself unable to do so , he retires from it . how can he be used as a...
+2. ...heard about the rules of propriety . i have also heard that the superior man maintains a distant reserve towards his son. `` ji shi : the wife of the prince of a state is called by him `` fu [REN] '' . she calls herself `` xiao tong '' . the people of the state call her `` jun fu ren '' , and , to the people of other states , they call her `` gua xiao jun ''...
+3. ...son. `` ji shi : the wife of the prince of a state is called by him `` fu ren '' . she calls herself `` xiao tong '' . the people of the state call her `` jun fu [REN] '' , and , to the people of other states , they call her `` gua xiao jun '' . the people of other states also call her `` jun fu ren '' . li ren : the master said...
+4. ...of the state call her `` jun fu ren '' , and , to the people of other states , they call her `` gua xiao jun '' . the people of other states also call her `` jun fu [REN] '' . li ren : the master said , `` it is virtuous manners which constitute the excellence of a neighborhood . if a man in selecting a residence , do not fix on one where such prevail , how...
+5. ...her `` jun fu ren '' , and , to the people of other states , they call her `` gua xiao jun '' . the people of other states also call her `` jun fu ren '' . li [REN] : the master said , `` it is virtuous manners which constitute the excellence of a neighborhood . if a man in selecting a residence , do not fix on one where such prevail , how can he be wise...
+
+RITUAL (31 occurrences)
+------------------------------------------------------------
+1. ...call her `` jun fu ren '' , and , to the people of other states , they call her `` gua xiao jun '' . the people of other states also call her `` jun fu ren '' . [LI] ren : the master said , `` it is virtuous manners which constitute the excellence of a neighborhood . if a man in selecting a residence , do not fix on one where such prevail , how can he be...
+2. ...master said , `` it is virtuous manners which constitute the excellence of a neighborhood . if a man in selecting a residence , do not fix on one where such prevail , how can he be wise ? `` [LI] ren : the master said , `` those who are without virtue can not abide long either in a condition of poverty and hardship , or in a condition of enjoyment . the virtuous rest in virtue ; the wise...
+3. ...master said , `` those who are without virtue can not abide long either in a condition of poverty and hardship , or in a condition of enjoyment . the virtuous rest in virtue ; the wise desire virtue. `` [LI] ren : the master said , `` it is only the ( truly ) virtuous man , who can love , or who can hate , others. `` li ren : the master said , `` if the will be...
+4. ...the virtuous rest in virtue ; the wise desire virtue. `` li ren : the master said , `` it is only the ( truly ) virtuous man , who can love , or who can hate , others. `` [LI] ren : the master said , `` if the will be set on virtue , there will be no practice of wickedness. `` li ren : the master said , `` riches and honors are what men desire . if...
+5. ...truly ) virtuous man , who can love , or who can hate , others. `` li ren : the master said , `` if the will be set on virtue , there will be no practice of wickedness. `` [LI] ren : the master said , `` riches and honors are what men desire . if it can not be obtained in the proper way , they should not be held . poverty and meanness are what men dislike ....
+
+WISDOM (20 occurrences)
+------------------------------------------------------------
+1. ...not sufficiently attest my words . i could describe the ceremonies of the yin dynasty , but song can not sufficiently attest my words . ( they can not do so ) because of the insufficiency of their records and [WISE] men . if those were sufficient , i could adduce them in support of my words. `` ba yi : the master said , `` at the great sacrifice , after the pouring out of the libation , i have...
+2. ...large tortoise in a house , on the capitals of the pillars of which he had hills made , and with representations of duckweed on the small pillars above the beams supporting the rafters . of what sort was his [WISDOM] ? `` gong ye chang : zi zhang asked , saying , `` the minister zi wen thrice took office , and manifested no joy in his countenance . thrice he retired from office , and manifested no displeasure ....
+3. ...when the master was informed of it , he said , `` twice may do. `` gong ye chang : the master said , `` when good order prevailed in his country , ning wu acted the part of a [WISE] man . when his country was in disorder , he acted the part of a stupid man . others may equal his wisdom , but they can not equal his stupidity. `` gong ye chang : when the master was...
+4. ..., `` when good order prevailed in his country , ning wu acted the part of a wise man . when his country was in disorder , he acted the part of a stupid man . others may equal his [WISDOM] , but they can not equal his stupidity. `` gong ye chang : when the master was in chen , he said , `` let me return ! let me return ! the little children of my school are ambitious...
+5. ...ren : the master said , `` it is virtuous manners which constitute the excellence of a neighborhood . if a man in selecting a residence , do not fix on one where such prevail , how can he be [WISE] ? `` li ren : the master said , `` those who are without virtue can not abide long either in a condition of poverty and hardship , or in a condition of enjoyment . the virtuous rest in virtue...
+
+HARMONY (619 occurrences)
+------------------------------------------------------------
+1. ...they are derived - saintliness . n. 01 : the quality of resembling a saint ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if [HE] can bear to do this , what may he not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice ....
+2. ...the quality of resembling a saint ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if he can bear to do this , what may [HE] not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice . the master said , `` 'assisting are the princes...
+3. ...and grave ' - what application can these words have in the hall of the three families ? `` ba yi : the master said , `` if a man be without the virtues proper to humanity , what has [HE] to do with the rites of propriety ? if a man be without the virtues proper to humanity , what has he to do with music ? `` ba yi : lin fang asked what was the first thing to...
+4. ...the master said , `` if a man be without the virtues proper to humanity , what has he to do with the rites of propriety ? if a man be without the virtues proper to humanity , what has [HE] to do with music ? `` ba yi : lin fang asked what was the first thing to be attended to in ceremonies . the master said , `` a great question indeed ! in festive ceremonies , it is...
+5. ...which are without them. `` ba yi : the chief of the ji family was about to sacrifice to the tai mountain . the master said to ran you , `` can you not save him from this ? `` [HE] answered , `` i can not . `` confucius said , `` alas ! will you say that the tai mountain is not so discerning as lin fang ? `` ba yi : the master said , `` the student...
+
+COLLOCATION ANALYSIS:
+================================================================================
+
+Total Bigrams: 1867
+Unique Bigrams: 291
+
+Top Significant Collocations:
+superior        - man             : 621.4137
+yan             - yuan            : 477.7032
+wei             - ling            : 417.1081
+shu             - er              : 382.1414
+yang            - huo             : 349.1759
+rules           - propriety       : 333.3561
+li              - ren             : 320.0571
+ba              - yi              : 319.2103
+yong            - ye              : 310.3307
+ye              - chang           : 308.2365
+xiang           - dang            : 252.8756
+tai             - bo              : 243.3628
+wei             - zheng           : 222.5088
+xue             - er              : 178.2301
+ling            - master          : 177.1805
