@@ -281,13 +281,13 @@ class TextAnalyzer:
         for (w1, w2), score in collocations['top_collocations'][:15]:
             final_result+=f"{w1:15} - {w2:15} : {score:.4f}\n"
 
-        with open(fr"result/analysis_result.txt", "w", encoding='utf-8') as file:
+        with open(fr"result/analysis_result1.txt", "w", encoding='utf-8') as file:
             file.write(final_result)
 
 
 def main():
     # 设置文件目录
-    data_directory = "./processed_data"  # 替换为实际路径
+    data_directory = "./the_Analects_corpus"  # 替换为实际路径
     analyzer = TextAnalyzer(data_dir=data_directory)
 
     # 合并文件

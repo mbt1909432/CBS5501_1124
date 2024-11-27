@@ -3,10 +3,10 @@
 TEXT ANALYSIS RESULTS
 ================================================================================
 BASIC STATISTICS:
-Total Words: 35572
-Total Sentences: 1751
-Unique Words: 2913
-Average Sentence Length: 20.32 words
+Total Words: 35550
+Total Sentences: 1749
+Unique Words: 2907
+Average Sentence Length: 20.33 words
 
 TOP 30 MOST FREQUENT WORDS:
 ----------------------------------------
@@ -50,7 +50,7 @@ VIRTUE (132 occurrences)
 2. ...' : 0 . 0029829109865908395 synsets for 'virtue ' : - virtue . n. 01 : the quality of doing what is right and avoiding what is wrong - merit . n. 01 : any admirable quality or attribute - [VIRTUE] . n. 03 : morality with respect to sexual relations - virtue . n. 04 : a particular moral excellence analyzing the first synset : name : virtue . n. 01 definition : the quality of doing what is right...
 3. .... n. 01 : the quality of doing what is right and avoiding what is wrong - merit . n. 01 : any admirable quality or attribute - virtue . n. 03 : morality with respect to sexual relations - [VIRTUE] . n. 04 : a particular moral excellence analyzing the first synset : name : virtue . n. 01 definition : the quality of doing what is right and avoiding what is wrong example sentences : [ ] synonyms :...
 4. ...- merit . n. 01 : any admirable quality or attribute - virtue . n. 03 : morality with respect to sexual relations - virtue . n. 04 : a particular moral excellence analyzing the first synset : name : [VIRTUE] . n. 01 definition : the quality of doing what is right and avoiding what is wrong example sentences : [ ] synonyms : [ 'virtue ' , 'virtuousness ' , 'moral_excellence ' ] antonyms : [ ] hypernyms (...
-5. ...] antonyms : [ ] hypernyms ( more general concepts ) : - good . n. 02 : moral excellence or admirableness hyponyms ( more specific concepts ) : coordinate terms ( words sharing the same hypernym ) : - [VIRTUE] . n. 04 : a particular moral excellence - kindness . n. 01 : the quality of being warmhearted and considerate and humane and sympathetic - virtue . n. 01 : the quality of doing what is right and avoiding...
+5. ...which all moral values are included or from which they are derived - saintliness . n. 01 : the quality of resembling a saint - beneficence . n. 02 : the quality of being kind or helpful or generous - [VIRTUE] . n. 04 : a particular moral excellence - virtue . n. 01 : the quality of doing what is right and avoiding what is wrong - kindness . n. 01 : the quality of being warmhearted and considerate and...
 
 BENEVOLENCE (37 occurrences)
 ------------------------------------------------------------
@@ -78,8 +78,8 @@ WISDOM (20 occurrences)
 
 HARMONY (619 occurrences)
 ------------------------------------------------------------
-1. ...they are derived - saintliness . n. 01 : the quality of resembling a saint ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if [HE] can bear to do this , what may he not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice ....
-2. ...the quality of resembling a saint ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if he can bear to do this , what may [HE] not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice . the master said , `` 'assisting are the princes...
+1. .... n. 01 : the quality of being warmhearted and considerate and humane and sympathetic ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if [HE] can bear to do this , what may he not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice ....
+2. ...and considerate and humane and sympathetic ba yi : confucius said of the head of the ji family , who had eight rows of pantomimes in his area , `` if he can bear to do this , what may [HE] not bear to do ? `` ba yi : the three families used the yong ode , while the vessels were being removed , at the conclusion of the sacrifice . the master said , `` 'assisting are the princes...
 3. ...and grave ' - what application can these words have in the hall of the three families ? `` ba yi : the master said , `` if a man be without the virtues proper to humanity , what has [HE] to do with the rites of propriety ? if a man be without the virtues proper to humanity , what has he to do with music ? `` ba yi : lin fang asked what was the first thing to...
 4. ...the master said , `` if a man be without the virtues proper to humanity , what has he to do with the rites of propriety ? if a man be without the virtues proper to humanity , what has [HE] to do with music ? `` ba yi : lin fang asked what was the first thing to be attended to in ceremonies . the master said , `` a great question indeed ! in festive ceremonies , it is...
 5. ...which are without them. `` ba yi : the chief of the ji family was about to sacrifice to the tai mountain . the master said to ran you , `` can you not save him from this ? `` [HE] answered , `` i can not . `` confucius said , `` alas ! will you say that the tai mountain is not so discerning as lin fang ? `` ba yi : the master said , `` the student...
@@ -87,22 +87,22 @@ HARMONY (619 occurrences)
 COLLOCATION ANALYSIS:
 ================================================================================
 
-Total Bigrams: 1867
-Unique Bigrams: 291
+Total Bigrams: 1870
+Unique Bigrams: 292
 
 Top Significant Collocations:
-superior        - man             : 621.4137
-yan             - yuan            : 477.7032
-wei             - ling            : 417.1081
-shu             - er              : 382.1414
-yang            - huo             : 349.1759
-rules           - propriety       : 333.3561
-li              - ren             : 320.0571
-ba              - yi              : 319.2103
-yong            - ye              : 310.3307
-ye              - chang           : 308.2365
-xiang           - dang            : 252.8756
-tai             - bo              : 243.3628
-wei             - zheng           : 222.5088
-xue             - er              : 178.2301
-ling            - master          : 177.1805
+superior        - man             : 621.2614
+yan             - yuan            : 477.6316
+wei             - ling            : 417.0310
+shu             - er              : 382.0717
+yang            - huo             : 349.1264
+rules           - propriety       : 333.3011
+li              - ren             : 320.0094
+ba              - yi              : 319.1626
+yong            - ye              : 310.2757
+ye              - chang           : 308.1833
+xiang           - dang            : 252.8426
+tai             - bo              : 243.3225
+wei             - zheng           : 222.4649
+xue             - er              : 178.2008
+ling            - master          : 177.1170

@@ -9,7 +9,7 @@ from nltk.draw.dispersion import dispersion_plot
 import pandas as pd
 
 # 指定数据目录
-data_directory = "./processed_data"
+data_directory = "./the_Analects_corpus"
 CONLL_directory="./result/stanza_pipeline_The_Analects"
 
 # 获取文件夹中的所有 .txt 文件
